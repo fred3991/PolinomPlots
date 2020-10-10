@@ -93,7 +93,7 @@ import datetime
 
 
 
-G = 15.5763264;
+G = 15.57632643;
 OP1dB = 19.67;
 IP1dB = OP1dB-(G-1);
 
